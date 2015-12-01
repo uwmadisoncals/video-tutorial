@@ -102,11 +102,24 @@ Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you abou
 - Theme customization, Plugin possibilities
 - Security Practices
 - Good Web Presence
-	- Hire a student, somebody dedicated, update/add content
-	- SEO kinda stuff, our backend handles markup and sitemaps, but good posts are key.
 
 Are you ready? Let's go!
 
+#### User Managerment
+
+You're the admin.
+
+#### Theme Customization, Plugin Possibilities
+
+How much control do folks need to know about?
+
+#### Security Practices
+
+What are good security practices?
+
+#### Good Web Presence
+- Hire a student, somebody dedicated, update/add content
+- SEO kinda stuff, our backend handles markup and sitemaps, but good posts are key.
 
 
 <br />
