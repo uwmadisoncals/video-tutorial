@@ -1,0 +1,193 @@
+# CALS Support
+
+---
+
+## Intro Script
+Hello! Welcome to CALS IT Knowledge Videocast! In the following video series, I'm going to tell you about...
+
+1. How to Get Into Your Website
+- How to Run Your Website
+- Theme Customizations
+- Navigation Styles
+- Header Slider
+- Faculty List
+- Plugins via CALS Overview
+- Gravity Forms
+- And maybe more!
+
+Are you ready? Let's go!
+
+First things first, let's talk about your website. Think of your website as framed painting. The user-facing front-end is the glass in front of the painting. Users can look at and touch this without affecting the painting.
+
+Next, your content is the painting! Anything you want to include can go onto your web-based canvas. Words, images, videos, submittable forms, and more can all happen with this digital painting.
+
+Lastly, the technical back-end is the frame. CALS IT handcrafts beautiful frames (websites) for your paintings (content), and can also help you paint if you’d like! The possibilities for your website are endless*, but you may not be able to do it all yourself. Luckily, CALS IT is here for you!
+
+> Websites developed by CALS IT are not able to (and may never be able to) print PDFs of edible pizza, change tomorrow’s forecast, give your cat a nicer personality, or experience the beauty of a sunset.
+
+
+<br />
+<hr />
+
+# General Support
+
+## How to Get Into Your Website
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- Login Information
+- Dashboard Explanation
+- What Generally Goes Where (Posts v. Pages)
+- Passwords
+
+Are you ready? Let's go!
+
+#### Login Information:
+
+You received your login information [from somewhere - did they? what if they didn't?]. If you were given a password, one thing we'll want to do is change that. We'll do that later.
+
+First, navigate to yourwebsite.cals.wisc.edu. This is the user-facing front end of your website. Looks nice, right?
+
+To get into the content-editing part of your website 
+
+A. Click on a button somewhere on the website? [OR]
+B. Type "/wp-admin" (OR "/wp-login.php") after yourwebsite.cals.wisc.edu
+C. Something else?
+
+
+#### Dashboard Explanation:
+
+[This depends on plugins included. And if Faculty & Header Slides become a plugin? Will they always be there?]
+Some of these may not be visible to you based on your user role.
+
+- Dashboard
+    - This is the driver seat of your website. If you've used a Wordpress site before, this will look very familiar. If you haven't used a Wordpress site before, you have now! 
+- Posts
+    - This is a constant stream of information. Ongoing. Updates. By the end of the month, posts from the beginning of the month aren't as important as the new ones. Posts just keep going... *Sometimes! What of folks who use posts differently? How do most folks use their sites? :/*
+- Media
+    - This is where you can upload images, videos, documents, spreadsheets, just about anything. The default file size limit is 32 MB - *Is it for everyone?*
+- Pages
+    - While posts are constantly getting added, Pages are constant sections of your website. They do not change drastically often - Unless you want them to! Pages are where you can anything. - *what's the difference for someone at CALS?*
+- Comments
+    - Comments are comments.
+- Others
+    - What other things are in just about everyone's dashboard?
+        - Header Slides
+        - Events
+        - Faculty
+        - What else?
+- Appearance
+    - This is where you can change visual aspects of your website. We'll talk about themes and customization in another video tutorial. Widgets and Menu items also reside in this area [*what's a better word for each section of the sidebar/site options?*]
+- Plugins
+    - Plugins are how we can add extra functionality to our website. CALS IT provides users|clients|you with hundreds (how many?) of plugins to activate on your site. Need a submittable form? Gravity Forms. Have lots of events going on? The Events Calendar. Lots of possibilities here that we'll talk about in another video.
+- Users
+    - Here you can see users, add users, and edit your own user. Choose "Your Profile," Here we can change the color scheme, toggle the toolbar when viewing the site, update your name, and we're going to update your password right now.
+    - Password tips: Gibberish doesn't make for a good password. Length does. Capital-H, Ampersand, Four, W, At-Sign, Ninety-Nine, Forward-Slash. "H&4w@99/" is really hard to remember, but would take 40 minutes to crack. "MountainCoffeeSpeedometer" would take more than 40 trillion years to crack - unless you have it written on a post-it now. Aim for 16 characters. Including a number or symbol will increase the strength.
+    - "Quote-unquote" hacking happens. Please take a moment to make a secure password. 
+- Tools
+    - Is anybody gonna do anything in Tools?
+- Settings
+    - What settings do people change? Need to edit? This stuff would be more for the admin video I think.
+
+
+Now you're inside, you're ready, go ahead and get webby! [I don't know, how do I finish this video?]
+
+Thanks for watching this CALS IT Knowledge Video Tutorial. I hope you found it helpful. You can watch more at somewhere.cals.wisc.edu. Go Badgers!
+
+
+
+## How to Run Your Website
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- User Management
+- Theme customization, Plugin possibilities
+- Security Practices
+- Good Web Presence
+	- Hire a student, somebody dedicated, update/add content
+	- SEO kinda stuff, our backend handles markup and sitemaps, but good posts are key.
+
+Are you ready? Let's go!
+
+
+
+<br />
+<hr />
+
+# Theme Support
+
+## CALS IT Homemade Themes
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- CALS, ARS, Else? 
+- Make a child/derivative theme for you!
+
+Are you ready? Let's go!
+
+
+## General Customizations
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- Color Scheme (CALS Black, UW Red)
+- Home Page Layout (Mosaic, Content on Left)
+
+Are you ready? Let's go!
+
+
+## Navigation Styles
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- Simple vs. Expanded
+
+Are you ready? Let's go!
+
+
+## Header Slider (*)
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- How to add items
+
+Are you ready? Let's go!
+
+
+## Faculty List (*)
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- How to add Faculty
+
+Are you ready? Let's go!
+
+
+<br />
+<hr />
+
+# Plugin Support
+
+## Plugins via CALS Overview 
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- Most commonly wanted features. 
+- CALS-made plugins (HeadSlide, FacList)
+- Third-party/paid plugins
+	- Events Manager
+	- Easy Maps
+	- Varnish HTTP Purge
+	- Advanced Custom Fields?
+
+Are you ready? Let's go!
+
+
+## Gravity Forms
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- How to do whatever
+- What’s good?
+
+Are you ready? Let's go!
+
+
+## Varnish HTTP Purge
+Hello! Welcome to CALS IT Knowledge Videocast! Today, I'm going to tell you about...
+
+- Does this happen a lot?
+
+Are you ready? Let's go!
+
